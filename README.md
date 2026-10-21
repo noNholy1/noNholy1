@@ -1,16 +1,17 @@
-## Hi there 👋
+## Никита Чикунов — QA-инженер
 
-<!--
-**noNholy1/noNholy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Тестирую веб-платформы и REST API государственных информационных систем в сфере образования: функционал, права доступа, интеграции. Пишу автотесты на Python.
 
-Here are some ideas to get you started:
+**Инструменты:** Postman · Swagger · SoapUI · SQL · DevTools · TestRail · Figma
+**Автоматизация:** Python · pytest · Selenium · Playwright · requests · Allure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+
+| Проект | Что внутри |
+|---|---|
+| [stellar-burgers-ui-tests](https://github.com/noNholy1/stellar-burgers-ui-tests) | UI-тесты на Selenium и Page Object, Chrome и Firefox, Allure |
+| [stellar-burgers-api-tests](https://github.com/noNholy1/stellar-burgers-api-tests) | API-тесты на requests: позитивные, негативные, без токена |
+| [scooter-api-tests](https://github.com/noNholy1/scooter-api-tests) | API-тесты курьеров и заказов, параметризация |
+| [stellar-burgers-unit-tests](https://github.com/noNholy1/stellar-burgers-unit-tests) | юнит-тесты с моками, покрытие 100% |
+
+Связь: [Telegram](https://t.me/Chekunoff1)
